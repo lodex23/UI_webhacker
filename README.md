@@ -13,4 +13,4 @@ type in "streamlit run Hack.py"
 wait for the browser to open up
 !!!Make sure not to close the terminal or the Hack.py app will also close
 
-# HAVE FUN
+HAVE FUN
