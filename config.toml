@@ -1,0 +1,8 @@
+[theme]
+base="dark"
+primaryColor="LightGreen"
+secondaryColor="LightGreen"
+
+
+[server]
+port="80"
